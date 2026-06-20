@@ -1,4 +1,4 @@
-# sesión 011 - 19/06
+# sesión 11 - 19/06
 
 AGREGAR SONIDO EN P5* loadSound
 -
