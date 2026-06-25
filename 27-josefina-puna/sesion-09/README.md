@@ -36,6 +36,6 @@ Si no se quiere usar botones de HTML y se prefiere dibujar botones propios con r
 ## Interacción con el mundo físico  
 ### Cámara web  
 *createCapture(VIDEO);*  
-1. Crear la variable para la captura, declarar una variable global que guardará el flujo de video de tu cámara web. https://p5js.org/reference/p5/createCapture/  
+1. Crear la variable para la captura, declarar una variable global que guardará el flujo de video de tu cámara web.  
 2. Inicializar la cámara en el function setup() utilizamos el comando especial createCapture(VIDEO) esto le pedirá permiso al navegador para encender la cámara del computador. También definimos tamaño con captura.size(x,y); y es muy importante agregar  captura.hide(); para que esconda el video que HTML pone abajo por default.  
 3. Dibujar la cámara en el function draw() usamos la función image(). p5.js toma cada cuadro (frame) de la cámara y lo dibuja en el lienzo en tiempo real.  
