@@ -48,3 +48,5 @@ SÍNTESIS DE AUDIO
 - La Frecuencia (Frequence): Controla qué tan rápido vibra la onda. Matemáticamente, a mayor frecuencia, el sonido es más agudo; a menor frecuencia, es más grave. Se mide en Hertz (Hz).  
 - La Amplitud (Amplitude): Controla la altura de la onda, lo que nosotros percibimos como el volumen. Va de 0.0 (silencio) a 1.0 (máximo).
 
+![Gato](https://i.pinimg.com/736x/bb/4b/65/bb4b65bf2eb4714092cae8340ac47dd3.jpg)
+
